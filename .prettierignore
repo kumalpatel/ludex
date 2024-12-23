@@ -1,0 +1,25 @@
+# dependencies
+node_modules
+
+# production build output
+dist
+
+# package manager files
+package-lock.json
+yarn.lock
+
+# TypeScript build info
+*.tsbuildinfo
+
+# source maps
+*.map
+
+# git
+.git
+
+# cache
+.vite
+
+# misc
+.DS_Store
+*.log
